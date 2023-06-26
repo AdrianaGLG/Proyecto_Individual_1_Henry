@@ -1,4 +1,4 @@
-Originalmente se cuenta con los siguientes datasets:
+AOriginalmente se cuenta con los siguientes datasets:
 credits.csv
 movies_dataset.csv
 Diccionario de Datos - Movies.xlsx
@@ -8,4 +8,8 @@ proyecto1_crew.csv
 proyecto1_movies.csv
 Que serán los usados en las primeras 6 funciones de la API
 
-Durante el proceso de ETL:
+Durante el proceso de EDA:
+df_Total
+
+Durante el desarrollo de ML:
+df_parte
