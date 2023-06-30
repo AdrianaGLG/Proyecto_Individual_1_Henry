@@ -43,7 +43,7 @@ Dentro de este repositorio se el código (main) y los recursos (requirements.txt
 El enlace para acceder al mismo es: https://proyecto-individual-1-aglg.onrender.com
 
 ## Explicación del proyecto
-El desarrollo del proyecto se encuentra en un video de Youtube a través del siguiente enlace:
+El desarrollo del proyecto se encuentra en un video de Youtube a través del siguiente enlace: https://youtu.be/ZPTy6uWifOk
 
 El presente proyecto se encuentra abierto a recomendaciones y futuras modificaciones.
 
